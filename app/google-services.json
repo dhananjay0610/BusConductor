@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "361407634125",
+    "project_id": "epass-ff52f",
+    "storage_bucket": "epass-ff52f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361407634125:android:a983e540476fd081082784",
+        "android_client_info": {
+          "package_name": "com.alpha.epass_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361407634125-61n16qb461m7gcfcp6kt2iu9jf8p314f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.epass_admin",
+            "certificate_hash": "807abf40374f9f93a424db3008ecf0aa8ac5946a"
+          }
+        },
+        {
+          "client_id": "361407634125-cb977s50ijcn23ud1gahvkckanjit378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpjPteI2IUIcaDAEKOCSjSsXnWk_NLRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361407634125-cb977s50ijcn23ud1gahvkckanjit378.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361407634125:android:cb077f29c540986c082784",
+        "android_client_info": {
+          "package_name": "com.alpha.epass_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361407634125-cb977s50ijcn23ud1gahvkckanjit378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpjPteI2IUIcaDAEKOCSjSsXnWk_NLRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361407634125-cb977s50ijcn23ud1gahvkckanjit378.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361407634125:android:39c33a76312a9288082784",
+        "android_client_info": {
+          "package_name": "com.epass_conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361407634125-cb977s50ijcn23ud1gahvkckanjit378.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpjPteI2IUIcaDAEKOCSjSsXnWk_NLRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361407634125-cb977s50ijcn23ud1gahvkckanjit378.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
